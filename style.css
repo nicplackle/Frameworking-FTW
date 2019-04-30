@@ -1,0 +1,7 @@
+.card:hover,
+.card:focus {
+    box-shadow: 10px 10px 57px 1px rgba(0,0,0,0.32);
+    transform: translateY(-0.25em);
+    }
+.title {font-size: 14pt;
+    }    
