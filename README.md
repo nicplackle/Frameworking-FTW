@@ -2,10 +2,10 @@
 
  https://nicplackle.github.io/Frameworking-FTW/
  
- Pro's
+ Pro
  - It is customizable
- - It has Emmet built in
+
  
- Cons
+ Con
  - Difficult to style 
  
