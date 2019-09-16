@@ -1,6 +1,6 @@
 # Frameworking-FTW
 
-Go [here] for the live version(https://nicplackle.github.io/Frameworking-FTW/ "Frameworking FTW live version")
+Go [here](https://nicplackle.github.io/Frameworking-FTW/ "Frameworking FTW live version") for the live version
  
  
 ## Pro
